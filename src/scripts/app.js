@@ -8,6 +8,8 @@ require("./views/guide");
 require("./views/home");
 require("./views/search");
 require("./views/my");
+require("./views/login");
+require("./views/logins");
 
 SPA.config({
 	indexView:"guide"    // 设置默认视图
