@@ -9,6 +9,7 @@ require("./views/home");
 require("./views/my");
 require("./views/login");
 require("./views/logins");
+require("./views/kaoshi")
 
 SPA.config({
 	indexView:"index"    // 设置默认视图
